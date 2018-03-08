@@ -1,6 +1,6 @@
 # 📊 Put Call Prodigy
 ----------------
-Put Call Prodigy is a educational platform developed to teach user option trading strategies through simplifying and gamifying options trading. Put Call Prodigy allows users to trade options with in-game currency using live quotes.
+Put Call Prodigy is a educational platform developed to teach user option trading strategies by simplifying and gamifying options trading. Put Call Prodigy allows users to trade options with in-game currency using live quotes.
 
 
 ![Demo](https://thumbs.gfycat.com/SilverFrighteningButterfly-size_restricted.gif)
@@ -8,7 +8,7 @@ Put Call Prodigy is a educational platform developed to teach user option tradin
 
 ## 📈 Simplification & Gamification
 -----------------------
-There are several aspects to options trading that often confuse users and overcomplicate simple concepts. Traditional educational platforms tend to overload the user with too much information. To make the user experience easier, we sought to simplify several aspects of options trading.  
+There are several aspects to options trading that often confuse users and overcomplicate simple concepts. Traditional educational platforms tend to overload the user with too much information. To make the user experience easier, we sought to simplify several aspects of options trading.
 
 
 **Underlying Assets** We eliminated the fact that exercising options results in purchasing an underlying asset for portfolio building. Portfolio building is a tedious act when one is trying to learn the underlying concepts of options trading.
@@ -24,7 +24,7 @@ There are several aspects to options trading that often confuse users and overco
 
 
 **Incremental Introduction to Information**
-Many of the traditional platforms that introduce users to options trading assume that the user is well versed in equity trading. We did not take this approach in development. We tried to simplify all components of options trading so that my 90 year old grandmother could develop a logical approach to options trading. Technical indicators, trading strategies, and other concepts are introduced incrementally as the user progresses through levels, not overloading the user with information.  
+Many of the traditional platforms that introduce users to options trading assume that the user is well versed in equity trading. We did not take this approach in development. We tried to simplify all components of options trading so that my 90 year old grandmother could develop a logical approach to options trading. Technical indicators, trading strategies, and other concepts are introduced incrementally as the user progresses through levels, not overloading the user with information.
 
 
 ## 📈 Education
